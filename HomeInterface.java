@@ -1,5 +1,4 @@
 public class HomeInterface {
-    private HomeService homeService;
     private HomeService light;
     private HomeService tv;
     private HomeService airConditioning;
